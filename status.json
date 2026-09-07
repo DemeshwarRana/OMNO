@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "message": "OMNO is temporarily unavailable. Please check back later."
+  "enabled": false,
+  "message": "OMNO is temporarily paused while we confirm some details. Back soon."
 }
