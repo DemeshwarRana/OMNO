@@ -9,6 +9,9 @@
 [![Download for Android](https://img.shields.io/badge/Download-Android_APK-2d8a00?style=for-the-badge)](../../releases/latest)
 [![Cost](https://img.shields.io/badge/Cost-Free-e11d48?style=for-the-badge)](#)
 
+*An educational, non-commercial personal project — not a company or a
+commercial product.*
+
 </div>
 
 ---
@@ -59,15 +62,22 @@ sentences. OMNO is built the other way around:
 | 🌐 **Web** | [demeshwarrana.github.io/OMNO](https://demeshwarrana.github.io/OMNO/) — works instantly in any browser, no install, no account needed |
 | 🤖 **Android** | [Latest release](../../releases/latest) — download the APK and install directly |
 
-> The web version runs as a local-only guest (your progress stays on your
-> device); the Android app additionally supports account sign-in and
-> syncs your progress across devices.
+> Both the web version and this APK run as a local-only guest — your
+> progress stays on your device, no account needed.
 
 ## Status
 
 OMNO is under active development — new content and features ship
 regularly. Found a bug, or have a feature you wish it had?
 [Open an issue](../../issues) — real feedback shapes what gets built next.
+
+## License
+
+OMNO is a personal, educational, non-commercial project. It's free to
+use for learning German, but it isn't licensed for commercial use,
+resale, or redistribution — see [LICENSE](LICENSE) for the exact terms.
+This repository doesn't include OMNO's source code, which stays private;
+the license covers the distributed app itself.
 
 ---
 
