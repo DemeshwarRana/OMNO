@@ -5,7 +5,7 @@
 
 ### Learn German for free — built around the exam, not around a streak.
 
-[![Try it in your browser](https://img.shields.io/badge/Try_it-omno.life-1a5fce?style=for-the-badge)](https://omno.life/)
+[![Try it in your browser](https://img.shields.io/badge/Try_it-Web-1a5fce?style=for-the-badge)](https://demeshwarrana.github.io/OMNO/)
 [![Download for Android](https://img.shields.io/badge/Download-Android_APK-2d8a00?style=for-the-badge)](../../releases/latest)
 [![Cost](https://img.shields.io/badge/Cost-Free-e11d48?style=for-the-badge)](#)
 
@@ -56,7 +56,7 @@ sentences. OMNO is built the other way around:
 
 | | |
 |---|---|
-| 🌐 **Web** | [omno.life](https://omno.life/) — works instantly in any browser, no install, no account needed |
+| 🌐 **Web** | [demeshwarrana.github.io/OMNO](https://demeshwarrana.github.io/OMNO/) — works instantly in any browser, no install, no account needed |
 | 🤖 **Android** | [Latest release](../../releases/latest) — download the APK and install directly |
 
 > The web version runs as a local-only guest (your progress stays on your
