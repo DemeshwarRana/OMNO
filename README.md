@@ -75,7 +75,7 @@ regularly. Found a bug, or have a feature you wish it had?
 
 OMNO is a personal, educational, non-commercial project. It's free to
 use for learning German, but it isn't licensed for commercial use,
-resale, or redistribution — see [LICENSE](LICENSE) for the exact terms.
+resale, or redistribution — is licensed under [CC BY-NC-ND 4.0](LICENSE) 2014 see the file for the exact terms.
 This repository doesn't include OMNO's source code, which stays private;
 the license covers the distributed app itself.
 

@@ -1,32 +1,54 @@
-OMNO — Non-Commercial Use License
-
-Copyright (c) 2026 Demeshwar Rana
+OMNO — Copyright (c) 2026 Demeshwar Rana
 
 This project ("OMNO"), including the compiled web build and Android
 APK distributed via this repository's Releases and its GitHub Pages
-site, is an educational, personal, non-commercial project. It is made
-available free of charge for personal and educational use only — it
-is not a commercial product or service, and is not offered as one.
+site, is an educational, personal, non-commercial project. This
+repository does not include OMNO's source code, which remains private;
+this license covers the distributed app itself.
 
-You may:
-- Use OMNO to learn German, at no cost.
-- Share a link to this repository with others for the same purpose.
+OMNO is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License
+(CC BY-NC-ND 4.0).
 
-You may not, without prior written permission from the author:
-- Use OMNO, or any part of it, for commercial purposes.
-- Sell, sublicense, rent, or charge others for access to OMNO or its
-  content.
-- Redistribute modified or repackaged versions of OMNO.
-- Use the OMNO name or branding for a separate product or service.
+────────────────────────────────────────────────────────────────────
 
-This repository does not include OMNO's source code, which remains
-private. This license covers the distributed app itself (the compiled
-web build and Android APK), not any underlying source.
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+International Public License (CC BY-NC-ND 4.0)
+
+Human-readable summary (this is not a substitute for the license):
+
+You are free to:
+  Share — copy and redistribute OMNO in any medium or format, for any
+  purpose other than commercially.
+
+Under the following terms:
+  Attribution — You must give appropriate credit to Demeshwar Rana,
+  provide a link to this license, and indicate if changes were made.
+  You may do so in any reasonable manner, but not in any way that
+  suggests the licensor endorses you or your use.
+
+  NonCommercial — You may not use OMNO, or any part of it, for
+  commercial purposes.
+
+  NoDerivatives — If you remix, transform, or build upon OMNO, you may
+  not distribute the modified material.
+
+  No additional restrictions — You may not apply legal terms or
+  technological measures that legally restrict others from doing
+  anything the license permits.
+
+No warranties are given. The license may not give you all of the
+permissions necessary for your intended use — for example, other
+rights such as publicity, privacy, or moral rights may limit how you
+use OMNO.
+
+Full legal code: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+License deed:    https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+────────────────────────────────────────────────────────────────────
 
 OMNO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT
-SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
-ARISING FROM THE USE OF OMNO.
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF OMNO.
 
 For questions about permitted use, open an issue on this repository.
