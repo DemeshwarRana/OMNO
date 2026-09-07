@@ -3,47 +3,71 @@
 
 # 🇩🇪 OMNO
 
-**Learn German the way you'll actually use it.**
+### Learn German for free — built around the exam, not around a streak.
 
-[![Try it in your browser](https://img.shields.io/badge/Try_it-Web-1a5fce?style=for-the-badge)](https://demeshwarrana.github.io/OMNO/)
+[![Try it in your browser](https://img.shields.io/badge/Try_it-omno.life-1a5fce?style=for-the-badge)](https://omno.life/)
 [![Download for Android](https://img.shields.io/badge/Download-Android_APK-2d8a00?style=for-the-badge)](../../releases/latest)
+[![Cost](https://img.shields.io/badge/Cost-Free-e11d48?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## What is OMNO?
+## Why OMNO exists
 
-OMNO is a mobile-first German-learning app covering every CEFR level from
-**A1 to C2** — vocabulary, real-life conversation scenarios, grammar
-lessons and drills, listening/reading practice, and full mock exams —
-built around one idea: content organized the way a learner actually
-progresses through a language, not a random drip-feed of flashcards.
+Learning a language properly is expensive in two currencies most people
+don't have much of: **time** and **money**. Language schools charge real
+fees, tutors charge by the hour, and even the "free" apps quietly funnel
+you toward a subscription the moment you want to move past the basics.
+On top of that, if you're preparing for an actual exam (A1–C2, DELF/DALF-
+style, whatever your goal is), you end up doing a second job just to
+organize good notes and know what's actually worth studying.
 
-- 📖 **Vocabulary & scenarios** — dozens of real-life topics per level,
-  from ordering at a restaurant to discussing politics at C2
-- 🔀 **Grammar, taught properly** — articles, cases, verb conjugation,
-  word order, and more, each with its own lesson and practice drill
-- 📝 **Full exit exams** per CEFR level (Grammatik, Hören, Lesen,
-  Schreiben) to gate progression to the next one
-- 🔤 **Alphabet & pronunciation** practice for absolute beginners
-- 🔥 **Streaks, XP, and spaced repetition** to keep practice consistent
+**OMNO does that work for you.** Vocabulary, grammar, and full mock exams
+are already organized by level, and it costs nothing.
+
+## What makes OMNO different
+
+Most language apps optimize for a daily streak and drip-feed you random
+sentences. OMNO is built the other way around:
+
+- 📝 **The exam is the destination, not an afterthought.** Every CEFR
+  level (A1 → C2) ends in a real exit exam — Grammatik, Hören, Lesen, and
+  Schreiben — so you always know exactly how ready you actually are, not
+  just how long your streak is.
+- 🔀 **Grammar is taught, not just implied.** Articles, cases, verb
+  conjugation, word order, negation, and more — each is its own lesson
+  with a real explanation *and* a practice drill, not a rule you're
+  expected to absorb by osmosis from example sentences.
+- 🗺️ **Content organized the way you'll actually need it** — real-life
+  scenarios per topic and level (renting an apartment, at the doctor,
+  bureaucracy, work, and dozens more), not a random vocabulary list.
+- ⏱️ **Built for 5 minutes, not a spare afternoon.** Every lesson and
+  drill is short enough to fit into a coffee break — consistency beats
+  marathon study sessions, and OMNO is structured so showing up daily is
+  actually realistic.
+- 🔤 **Starts from zero.** Dedicated alphabet and pronunciation practice
+  for absolute beginners — no assumed prior knowledge.
+- 🔥 **Streaks, XP, and spaced repetition** — the habit-forming parts of
+  the "fun" apps, kept, without losing the exam-focused substance.
+- 💸 **Actually free.** No paywall blocking progression past A1.
 
 ## Get OMNO
 
 | | |
 |---|---|
-| 🌐 **Web** | [demeshwarrana.github.io/OMNO](https://demeshwarrana.github.io/OMNO/) — works instantly in any browser, no install |
-| 🤖 **Android** | [Latest APK release](../../releases/latest) — download and install directly |
+| 🌐 **Web** | [omno.life](https://omno.life/) — works instantly in any browser, no install, no account needed |
+| 🤖 **Android** | [Latest release](../../releases/latest) — download the APK and install directly |
 
-> The web version runs as a local-only guest (progress stays on your
+> The web version runs as a local-only guest (your progress stays on your
 > device); the Android app additionally supports account sign-in and
-> cross-device progress sync.
+> syncs your progress across devices.
 
 ## Status
 
-OMNO is under active development. Feedback and bug reports are welcome —
-please [open an issue](../../issues).
+OMNO is under active development — new content and features ship
+regularly. Found a bug, or have a feature you wish it had?
+[Open an issue](../../issues) — real feedback shapes what gets built next.
 
 ---
 
